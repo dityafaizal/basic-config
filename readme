@@ -1,0 +1,7 @@
+to open this file
+
+1. open command prompt
+2. cd to this folder
+3. type npm-install and enter
+4. after downloading and installing are done, type npm-start
+5. open your browser and type on the browser address localhost:42600
